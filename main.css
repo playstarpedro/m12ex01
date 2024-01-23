@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+
+header {
+    background-color: rgb(43, 53, 144);
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+/* .row {
+    background-color: #ccc;
+    border-radius: 20px;
+    padding: 30px;
+    margin-left: 100px;
+} */
+
+.col {
+    width: 20%;
+}
+
+.col h2 {
+    margin-bottom: 10px;
+}
+
+form input {
+    margin-bottom: 15px;
+}
